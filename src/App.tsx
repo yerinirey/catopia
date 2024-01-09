@@ -39,6 +39,7 @@ const GlobalStyles = createGlobalStyle`
   body {
     background-color: var(--grey);
     color: var(--beige);
+    overflow-x: hidden;
   }
 `;
 

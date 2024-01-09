@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import styled from "styled-components"
 
 const Wrapper = styled.div`
+z-index: 99;
   position: fixed;
   left: 0;
   top: 0;
